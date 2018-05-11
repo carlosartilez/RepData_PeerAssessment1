@@ -1,10 +1,9 @@
-Reproducible Research: Peer Assessment 1
-====================
-### Carlos Artilez
-
-### May 10th, 2018
-
-## Introduction
+---
+title: "Reproducible Research: Peer Assessment 1"
+author: "Carlos Artilez"
+date: "May 10, 2018"
+output: html_document
+---
 
 ## 0.- Loading and preprocessing the data
 
