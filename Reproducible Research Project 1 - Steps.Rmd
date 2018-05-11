@@ -1,8 +1,10 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: 'Reproducible Research: Peer Assessment 1'
 author: "Carlos Artilez"
 date: "May 10, 2018"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## 0.- Loading and preprocessing the data
